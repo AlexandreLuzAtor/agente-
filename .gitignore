@@ -1,0 +1,37 @@
+# Arquivos de ambiente e chaves secretas
+.env
+.streamlit/secrets.toml
+
+# Python e caches
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+s3tar/
+s3tar.eggs/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Arquivos de editor e sistema operacional
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
